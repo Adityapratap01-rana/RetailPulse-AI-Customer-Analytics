@@ -42,3 +42,10 @@ The dataset contains retail transaction records, including:
 - Created 5 customer segments.
 - Applied K-Means and DBSCAN clustering.
 - Developed sales forecasting models using Prophet and LSTM.
+ ## 📸 Dashboard Screenshots
+ 1. Sales Analytics
+ . ![Sales Analytics](sales-analytics.png)
+ #2. Customer Analytics
+ . ![Customer Analytics](customer-analytics.png)
+# 3. Sales Forecasting
+![Sales Forecast](sales-forecast.png)
